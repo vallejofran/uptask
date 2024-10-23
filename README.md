@@ -6,7 +6,7 @@ Full Stack React MERN app
 - Download source code or clone project
   ```
   git clone https://github.com/vallejofran/uptask.git
-  cd product-manager
+  cd uptask
   ```
   
 - Install server packages and run the server
